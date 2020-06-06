@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onlinebookshop.iml" filepath="$PROJECT_DIR$/onlinebookshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebookshop_dao/onlinebookshop_dao.iml" filepath="$PROJECT_DIR$/onlinebookshop_dao/onlinebookshop_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebookshop_domain/onlinebookshop_domain.iml" filepath="$PROJECT_DIR$/onlinebookshop_domain/onlinebookshop_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebookshop_service/onlinebookshop_service.iml" filepath="$PROJECT_DIR$/onlinebookshop_service/onlinebookshop_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebookshop_utils/onlinebookshop_utils.iml" filepath="$PROJECT_DIR$/onlinebookshop_utils/onlinebookshop_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebookshop_web/onlinebookshop_web.iml" filepath="$PROJECT_DIR$/onlinebookshop_web/onlinebookshop_web.iml" />
+    </modules>
+  </component>
+</project>
